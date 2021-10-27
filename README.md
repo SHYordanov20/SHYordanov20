@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Stanislav Jordanov!](https://github.com/SHYordanov20)
 <h3>I am student in @codingburgas 🎓. I am currently studying C++ ,Html and CSS 💡. . I'm currently into Web Development 🕸️.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyordanov20" alt="shyordanov20" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyordanov20&show_icons=true&locale=en" alt="shyordanov20" /></p>
 
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
