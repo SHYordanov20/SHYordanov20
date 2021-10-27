@@ -26,7 +26,7 @@
 <details style = "display: inline;">
   <summary><b>📚 Badges</b></summary>
 
-<a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a>
+<a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png"" ></a>
  <a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/images/7cd0e3ab-f934-4a49-9c30-d1e50fc58195/MTA-Introduction_to_Programming_Using_HTML_and_CSS.png" ></a>
 </details>
 
