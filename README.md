@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👯 Most of my projects are available on [GitHub](https://github.com/SHYordanov20?tab=repositories)
+
 - 🌱 I’m currently learning **Python, Ruby and JS**
 
 - 📫 How to reach me **Shyordanov20@codingburgas.bg**
