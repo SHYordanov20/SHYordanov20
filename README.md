@@ -1,8 +1,6 @@
 ## Hey 👋, I'm [Stanislav Jordanov!](https://github.com/SHYordanov20)
 <h3>I am student in @codingburgas 🎓. I am currently studying C++ ,Html and CSS 💡. . I'm currently into Web Development 🕸️.</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyordanov20&show_icons=true&locale=en" alt="shyordanov20" /></p>
-
 <img align="right" height="350" width="475" alt="" src="https://i.pinimg.com/originals/d7/25/4e/d7254e416786f83b2d03434983596c7d.gif" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -25,6 +23,9 @@
 
 <details style = "display: inline;">
   <summary><b>📚 Badges</b></summary>
+  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyordanov20&show_icons=true&locale=en" alt="shyordanov20" /></p>
 
  <a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/images/7cd0e3ab-f934-4a49-9c30-d1e50fc58195/MTA-Introduction_to_Programming_Using_HTML_and_CSS.png" ></a>
 </details>
