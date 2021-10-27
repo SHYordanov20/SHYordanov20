@@ -31,3 +31,9 @@
 </details>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyordanov20&show_icons=true&locale=en" alt="shyordanov20" /></p>
+
+<div align="center">
+
+# Foucus on yourself not others!
+
+</div>
