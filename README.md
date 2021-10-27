@@ -30,10 +30,8 @@
  <a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyordanov20&show_icons=true&locale=en" alt="shyordanov20" /></p>
-
 <div align="center">
 
-# Foucus on yourself not others!
-
+# "Worry is a misuse of imagination."
+  
 </div>
