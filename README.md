@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Stanislav Jordanov!](https://github.com/SHYordanov20)
+## Hey 👋, I'm [Stanislav Yordanov!](https://github.com/SHYordanov20)
 <h3>I am student in @codingburgas 🎓. I am currently studying C++ ,Html and CSS 💡. . I'm currently into Web Development 🕸️.</h3>
 
 <img align="right" height="350" width="475" alt="" src="https://i.pinimg.com/originals/d7/25/4e/d7254e416786f83b2d03434983596c7d.gif" />
