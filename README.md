@@ -29,6 +29,7 @@
 
  <a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/images/7cd0e3ab-f934-4a49-9c30-d1e50fc58195/MTA-Introduction_to_Programming_Using_HTML_and_CSS.png" ></a>
 </details>
+<br>
 
 <div align="center">
 
