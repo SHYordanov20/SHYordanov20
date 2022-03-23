@@ -38,6 +38,6 @@
 
 <div align="center">
 
-# "Worry is a misuse of imagination."
+# "Pay that man the total, no tip, man, hmm"
   
 </div>
