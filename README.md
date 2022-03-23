@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Stanislav Yordanov!](https://github.com/SHYordanov20)
 <h3>I am student in @codingburgas 🎓. I am currently studying C++ ,Html and CSS 💡. . I'm currently into Web Development 🕸️.</h3>
 
-<img align="right" height="350" width="475" alt="" src="https://i.pinimg.com/originals/d7/25/4e/d7254e416786f83b2d03434983596c7d.gif" />
+<img align="right" height="400" width="475" alt="" src="https://media0.giphy.com/media/Sr9PmKyyzqK0Qx21oc/giphy.gif" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
