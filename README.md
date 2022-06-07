@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Shyordanov20@codingburgas.bg**
 
-- ⚡ Fun fact **I play a lot of sports**
+- ⚡**Truthfully, I just say what I really think**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
